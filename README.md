@@ -1,6 +1,8 @@
 # Storm-viewer
 
-table views and image views, app bundles, FileManager, typecasting, view controllers, storyboards, outlets, Auto Layout, UIImage
+Covered:
+table views 
+and image views, app bundles, FileManager, typecasting, view controllers, storyboards, outlets, Auto Layout, UIImage
 
 Challenge
 1. Use Interface Builder to select the text label inside your table view cell and adjust its font size to something larger 
